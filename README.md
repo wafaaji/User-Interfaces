@@ -7,4 +7,4 @@ Not project just some screens to improve UI/UX
 
 ![Donut Screen](assets/screenshoot/donut.jpg)
 
-![Modern UI Screen](assets/screenshoot/modern ui.jpg)
+![Modern UI Screen](assets/screenshoot/modern_ui.jpg)
